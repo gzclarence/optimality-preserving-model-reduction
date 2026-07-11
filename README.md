@@ -1,6 +1,7 @@
 # Exact, optimality-preserving model reduction for energy system optimization
 
-Preprint of this paper is available at https://dx.doi.org/10.2139/ssrn.7086803   
+This code and dataset accompany the paper ***Exact Optimality-Preserving Model Reduction Using Low-Resolution Surrogates for Energy System Optimization***, currently under review. Preprint of this paper is available at https://dx.doi.org/10.2139/ssrn.7086803 .
+
 This repository implements a **three‑stage optimization framework** for large‑scale economic dispatch:
 
 1. **Dense Full‑Resolution Model** – hourly benchmark (8760 h)  
